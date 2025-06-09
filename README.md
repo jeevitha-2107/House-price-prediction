@@ -21,6 +21,10 @@ Includes features like location, size, rooms, and price.
 ✅ Python 3.x  
 ✅ Pandas, NumPy, Matplotlib, Seaborn  
 ✅ Scikit-learn  
+## 🔹 Dataset  
+This project uses a **house price prediction dataset** from Kaggle.  
+📂 Dataset Link: [Housing Price Prediction - Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)  
+
 🔹 Notes  
 - Ensure `data.csv` is placed in the same folder as the notebook.  
 - Open to suggestions & improvements!  
